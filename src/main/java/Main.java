@@ -11,6 +11,7 @@ import java.util.concurrent.*;
 /**
  * @author ReverendDread on 6/7/2020
  * https://www.rune-server.ee/members/reverenddread/
+ * Modified for Diversity by Riley
  */
 public class Main {
 
